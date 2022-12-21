@@ -1,6 +1,6 @@
 Shapes, Variables, Loops, Conditionals, Functions 
-What shape function creates\nwords on the screen?, Which property makes a Circle\nbigger both vertically and hortizontally?, The keyword _____ begins a loop\nthat cycles through a list of values., The keyword ____ signals the\nstart of code segment that\nselects which section of code\nto run., ________ is a function for\nclicking the mouse. 
+What shape function creates\nwords on the screen?,Which property makes a Circle\nbigger both vertically and hortizontally?, The keyword _____ begins a loop\nthat cycles through a list of values., The keyword ____ signals the\nstart of code segment that\nselects which section of code\nto run., ________ is a function for\nclicking the mouse. 
 What arguments does the Oval\nfunction take?, What is the name of\nthe parameter for onKeyPress?, , , 
 Which shape could create a\npicture of a dog?, , , ,
-To draw a yellow smiley\nface, which shape must\nbe drawn first and why?, , , 
-Write code to draw a\nblue face mask., , , ,
+To draw a yellow smiley\nface, which shape must be drawn first and why?, Find all errors in\nthe code:\ndef onMousePress(key):\n     centery = 20\n     centerx=20\n, Find all of the errors in\nthe code below:\nx = 5\nwhile(x>0):\n     Circle(x 200 20), 
+Write code to draw a\nblue face mask., Write (or find) code that\nchanges 4 shape properties, Write loop that creates\nlabels from numbers 1 through 10, Write (or find) if-elif-\nelse statement code., 
