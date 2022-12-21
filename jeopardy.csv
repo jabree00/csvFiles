@@ -7,4 +7,4 @@ create?",Which is the final value\nof x?\nx = 10\nif(x < 2):\n\tx = 5\nif(x > 2)
 def onmousepress(x,y):\tcircle(50 30, 5, 10)"
 To draw a yellow smiley\nface,which shape must be drawn first and why?,Find all errors in\nthe code:\ndef onMousePress(key):\n     centery = 20\n     centerx=20\n,Find all of the errors in\nthe code below:\nx = 5\nwhile(x>0):\n     Circle(x 200 20),"Find the errors:\n
 def onkeyPress(k):\t if(key='space'):\n\tshape.centery = 200"
-Write code to draw a\nblue face mask.,Write (or find) code that\nchanges 4 shape properties,Write loop that creates\nlabels from numbers 1 through 10,Write (or find) if-elif-\nelse statement code.,Write code to create\na new smiley face wherever the mouse is moved. 
+Write code to draw a blue face mask.,Write (or find) code that\nchanges 4 shape properties,Write loop that creates\nlabels from numbers 1 through 10,Write (or find) if-elif-\nelse statement code.,Write code to create\na new smiley face wherever the mouse is moved. 
