@@ -1,6 +1,6 @@
 Shapes,Variables,Loops,Conditionals,Functions
 What shape function creates\nwords on the screen?,What is the name of\nthe parameter for onKeyPress?,The keyword _____ begins a loop\nthat cycles through a list of values., In a conditional statement\nthe keyword ____ signals the\nstart of code segment that\nDECIDES which section of code\nto run.,________ is a function for\nclicking the mouse.
-What arguments does the Oval\nfunction take?,Which property makes a Circle\nbigger both vertically and hortizontally?,How many times will this\nloop repeat?\nfor x in [100 200 300]:\n\tCircle(x 200 10) ,"The keyword ___ means\n""if not.""",How many event handlers are there in CS Academy?
+What arguments does the Oval\nfunction take?,Which property makes a Circle\nbigger both vertically and hortizontally?,How many times will this\nloop repeat?\nfor x in [100 200 300]:\n\t     Circle(x 200 10), The keyword ___ means\n "if not.",How many event handlers are there in CS Academy?
 What is the only shape that\ncould take all\n of these arguments?\n10 30 50 50 200 200 15 30 100 100,Name 5 shape-specfic properties. ,"What list of numbers\n
 would range(5,25,5)\n
 create?",Which is the final value\nof x?\nx = 10\nif(x < 2):\n\tx = 5\nif(x > 2):\n\tx += 3,"Find all of the errors\nin the code below:\n
