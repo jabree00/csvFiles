@@ -3,3 +3,5 @@ https://www.kaggle.com/datasets/open-source-sports/mens-professional-basketball?
 
 Basketball Data is made available via the following license:
 https://creativecommons.org/licenses/by-sa/3.0/
+
+Remaining csv files are pulled from public domain datasets.
